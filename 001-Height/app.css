@@ -9,3 +9,31 @@ img {
 }
 
 /* Code Under This Line */
+
+.short{
+  height: 100px;
+}
+
+.tall{
+  height: 200px;
+}
+
+.outside{
+  height: 50px;
+}
+
+.inside{
+  border: solid blue 1px;
+  position: relative;
+  height: 100%;
+}
+
+.giant{
+  border: solid red 1px;
+  position: relative;
+  height: 100%;
+}
+
+body, html{
+  height: 100%;
+}
