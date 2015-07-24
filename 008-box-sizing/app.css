@@ -18,9 +18,19 @@ div {
   padding: 20px;
 }
 
+
+/* Your Code Goes Under This Line */
+
+
 .column {
+  position: inline-block;
   float: left;
   width: 25%;
 }
 
-/* Your Code Goes Under This Line */
+div{
+  padding: 0;
+}
+
+
+
