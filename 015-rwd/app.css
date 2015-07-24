@@ -33,3 +33,25 @@ body {
 .post-title {
   font-size: 2rem;
 }
+
+.container{
+  width:100%;
+  display: table;
+}
+
+.sidebar{
+  max-width: 30%;
+  display: table-cell;
+}
+
+.posts{
+  display:table-cell;
+  width:70%;
+  float: right;
+}
+
+img{
+  width:100%;
+  height:auto;
+}
+
