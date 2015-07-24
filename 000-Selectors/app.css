@@ -13,16 +13,14 @@ img {
 
 /* Code Under This Line */
 
-ul{
+.foo{
+  background-color: red;
+}
+
+.bar, .fiz{
   background-color: blue;
 }
 
-.foo{
-  font-size: 10px;
-  color: purple;
-}
-
-.baz{
-  font-size: 20px;
-  color: yellow;
+div{
+  background-color: green;
 }
